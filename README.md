@@ -1,4 +1,8 @@
-## SEJA BEM VINDO! 
+##  Welcome to my GitHub.
+🔭 Studying Certified Tech Developer at Digital House
+🎓 Full Stack by Estácio de Sá 
+💻 Learning HTML5, CSS, PYTHON and others
+📫 Send me a Email: bs88994@gmail.com 
 <div align="center">
   <a href="https://github.com/Brunosouzad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunosouzad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
