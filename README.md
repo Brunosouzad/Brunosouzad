@@ -1,9 +1,9 @@
 ##  Welcome to my GitHub.
 
-- 🔭 Studying Certified Tech Developer at Digital House
-- 🎓 Full Stack by Estácio de Sá 
-- 💻 Learning HTML5, CSS, PYTHON and others
+- 🎓 Studying Certified Tech Developer at Digital House
+- 💻 Learning  Java | Javascript | Python | HTML | CSS | React JS | NodeJs | SQL | Git
 - 📫 Send me a Email: bs88994@gmail.com 
+- 📫 https://www.linkedin.com/in/brunosouzad/
 <!-- 
 caixas de status -->
 <div align="center">
