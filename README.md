@@ -1,7 +1,7 @@
 ##  Welcome to my GitHub.
 
 - 🎓 Studying Certified Tech Developer at Digital House
-- 💻 Learning  Java | Javascript | Spring Boot | HTML | CSS | React JS | NodeJs | SQL | Git
+- 💻 Learning  Java | Javascript | Spring Boot | React JS | SQL | Git
 - 📫 Send me a Email: bs88994@gmail.com 
 - 📫 https://www.linkedin.com/in/brunosouzad/
 <!-- 
