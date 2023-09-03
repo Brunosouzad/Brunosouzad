@@ -6,14 +6,14 @@
 - 📫 https://www.linkedin.com/in/brunosouzad/
 <!-- 
 caixas de status -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/Brunosouzad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunosouzad&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />       
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bruno-Spring" height="30" width="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png">
+  <img align="center" alt="Bruno-Spring" height="30" width="40" src="https://www.nicepng.com/png/full/31-314820_logo-spring-spring-framework-logo-svg.png">
           
 </div>
   
