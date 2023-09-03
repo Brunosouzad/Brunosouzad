@@ -13,7 +13,7 @@ caixas de status -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />       
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bruno-Spring" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://www.nicepng.com/png/full/31-314820_logo-spring-spring-framework-logo-svg.png](https://www.nicepng.com/png/full/31-314820_logo-spring-spring-framework-logo-svg.png))">
+  <img align="center" alt="Bruno-Spring" height="30" width="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png">
           
 </div>
   
