@@ -1,4 +1,4 @@
-##  Welcome to my GitHub.
+![image](https://github.com/Brunosouzad/Brunosouzad/assets/105157808/55dd32b8-44d4-4455-890a-1fbfb3c2796e)##  Welcome to my GitHub.
 
 - 🎓 Studying Certified Tech Developer at Digital House
 - 💻 Learning  Java | Javascript | Spring Boot | React JS | SQL | Git
@@ -13,6 +13,7 @@ caixas de status -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />       
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Bruno-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://www.nicepng.com/png/full/31-314820_logo-spring-spring-framework-logo-svg.png)">
           
 </div>
   
