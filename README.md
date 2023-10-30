@@ -1,14 +1,28 @@
-##  Welcome to my GitHub.
+## Seja Bem-Vindo! 👋
+<div align="center">
+</div>
 
-- 🎓 Studying Certified Tech Developer at Digital House
-- 💻 Learning  Java | Javascript | Spring Boot | React JS | SQL | Git
-- 📫 Send me a Email: bs88994@gmail.com 
-- 📫 https://www.linkedin.com/in/brunosouzad/
-<!-- 
-caixas de status -->
+### ⚡ Github Stats</b></summary>
+[comment]: ![Metrics](https://metrics.lecoq.io/brunosouzad?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
+
+
 <div align="left">
-  <a href="https://github.com/Brunosouzad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunosouzad&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosouzad&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosouzad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunosouzad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+</div>
+
+  
+## Contatos:
+
+<div>
+ <a href="https://instagram.com/bunosouzaa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:bs88994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brunosouzad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />       
@@ -17,13 +31,3 @@ caixas de status -->
           
 </div>
   
-  ##
- 
-<div> 
-  <a href="https://instagram.com/bunosouzaa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bs88994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunosouzad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
