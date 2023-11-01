@@ -1,5 +1,20 @@
 ## Seja Bem-Vindo! 👋
-<div align="center">
+<div>
+Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+  <p></p/>
+<p>-Java</p> 
+<p>-Spring Boot</p>
+<p>-Spring Cloud</p>
+<p>-Microsservicos</p>
+<p>-Server-Sent Events (SSE)</p>
+<p>-WebSockets</p>
+<p>-Banco de dados (MSSQL)</p>
+<p>-Redis</p>
+<p>-Docker</p>
+<p>-RabbitMq</p>
+<p>-AWS</p>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
 </div>
 
 ### ⚡ Github Stats</b></summary>
